@@ -1,0 +1,15 @@
+{
+  "name": "node-web-scrapper",
+  "version": "1.0.0",
+  "description": "This app is a web scrapper to extract data from websites.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Ma",
+  "dependencies": {
+    "express": "latest",
+    "request": "latest",
+    "cheerio": "latest"
+  }
+}
